@@ -45,7 +45,7 @@ I am passionate about leveraging **machine learning, cybersecurity, and full-sta
 
 ## 📊 GitHub Stats
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abhishekp982004&label=Profile%20views&color=0e75b6&style=flat)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekp982004&show_icons=true&theme=default&hide_border=true)
 
 ---
 
@@ -57,7 +57,7 @@ I am passionate about leveraging **machine learning, cybersecurity, and full-sta
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Abhishekp982004/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=abhishekp982004&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
