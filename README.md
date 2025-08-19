@@ -45,8 +45,8 @@ I am passionate about leveraging **machine learning, cybersecurity, and full-sta
 
 ## 🛠️ Projects
 
-- **[Fitium](https://abhishekp982004.github.io)** – Python-based Fitness Tracker with heart rate & BMI analysis.
-- **MedSnap** – MERN-based hospital management system with QR login, patient profile, and reports.
+- **[Fitium](https://github.com/Abhishekp982004/Fitium)** – Python-based Fitness Tracker with heart rate & BMI analysis.
+- **[MedSnap](https://github.com/Abhishekp982004/MedSnap)** – MERN-based hospital management system with QR login, patient profile, and reports.
 - **Radiation Pollution Analysis** – Data collection & ML modeling to analyze pollution thresholds using RSA306.
 
 ---
